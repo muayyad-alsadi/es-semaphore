@@ -1,5 +1,6 @@
 {
   "name": "@alsadi/semaphore",
+  "version": "0.0.1",
   "private": false,
   "author": "alsadi@gmail.com",
   "license": "Apache-2.0",
