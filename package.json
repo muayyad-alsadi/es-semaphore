@@ -1,0 +1,19 @@
+{
+  "name": "@alsadi/semaphore",
+  "private": false,
+  "author": "alsadi@gmail.com",
+  "license": "Apache-2.0",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muayyad-alsadi/es-semaphore.git"
+  },
+  "keywords": [
+    "async",
+    "ipc"
+  ],
+  "bugs": {
+    "url": "https://github.com/muayyad-alsadi/es-semaphore/issues"
+  },
+  "homepage": "https://github.com/muayyad-alsadi/es-semaphore#readme"
+}
